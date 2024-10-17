@@ -1,0 +1,17 @@
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tar.lzma
+*.tar.lzo
+*.tar.zst
+*.tar
+*.gz
+*.bz2
+*.xz
+*.lzma
+*.lzo
+*.zst
+*.DS_STORE
