@@ -1,5 +1,8 @@
 # TDT4109
 
+## C rewrite
+I've started rewriting the code to teach myself C. The code can be found on [GitHub](https://git.graesberg.com/tdt4109-but-c)
+
 ## [BLACKBOARD](https://ntnu.blackboard.com/ultra/courses/_49373_1/cl/outline)
 
 ## EMNESIDE
